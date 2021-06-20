@@ -1,0 +1,117 @@
+Main_Menu.png
+size: 1754, 1723
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back
+  rotate: false
+  xy: 200, 0
+  size: 289, 99
+  orig: 289, 99
+  offset: 0, 0
+  index: -1
+bossIcon
+  rotate: false
+  xy: 1024, 476
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Choose
+  rotate: false
+  xy: 0, 1605
+  size: 1267, 118
+  orig: 1267, 118
+  offset: 0, 0
+  index: -1
+Collection
+  rotate: false
+  xy: 0, 150
+  size: 622, 131
+  orig: 622, 131
+  offset: 0, 0
+  index: -1
+WhiteBase
+  rotate: false
+  xy: 1024, 988
+  size: 708, 617
+  orig: 708, 617
+  offset: 0, 0
+  index: -1
+girl icon
+  rotate: false
+  xy: 0, 988
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+LeftZombie
+  rotate: false
+  xy: 0, 476
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+MainMenuB
+  rotate: false
+  xy: 803, 0
+  size: 449, 150
+  orig: 449, 150
+  offset: 0, 0
+  index: -1
+MainMenuT
+  rotate: false
+  xy: 622, 150
+  size: 444, 326
+  orig: 444, 326
+  offset: 0, 0
+  index: -1
+man icon
+  rotate: false
+  xy: 512, 988
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+MuteIcon
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+New_Game
+  rotate: false
+  xy: 1066, 150
+  size: 670, 150
+  orig: 670, 150
+  offset: 0, 0
+  index: -1
+Resume
+  rotate: false
+  xy: 1252, 0
+  size: 502, 133
+  orig: 502, 133
+  offset: 0, 0
+  index: -1
+RightZombie
+  rotate: false
+  xy: 512, 476
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Run
+  rotate: false
+  xy: 489, 0
+  size: 314, 138
+  orig: 314, 138
+  offset: 0, 0
+  index: -1
+UnmuteIcon
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

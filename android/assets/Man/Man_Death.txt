@@ -1,0 +1,47 @@
+Man_Death.png
+size: 958, 862
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+death_0000_Man
+  rotate: false
+  xy: 0, 0
+  size: 332, 378
+  orig: 332, 378
+  offset: 0, 0
+  index: -1
+death_0001_Man
+  rotate: false
+  xy: 332, 0
+  size: 296, 285
+  orig: 296, 285
+  offset: 0, 0
+  index: -1
+death_0002_Man
+  rotate: false
+  xy: 628, 0
+  size: 273, 254
+  orig: 273, 254
+  offset: 0, 0
+  index: -1
+death_0003_Man
+  rotate: false
+  xy: 0, 378
+  size: 416, 223
+  orig: 416, 223
+  offset: 0, 0
+  index: -1
+death_0004_Man
+  rotate: false
+  xy: 416, 378
+  size: 542, 231
+  orig: 542, 231
+  offset: 0, 0
+  index: -1
+death_0005_Man
+  rotate: false
+  xy: 0, 609
+  size: 566, 253
+  orig: 566, 253
+  offset: 0, 0
+  index: -1

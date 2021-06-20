@@ -1,0 +1,129 @@
+Zombie8_death0.png
+size: 1170, 1769
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1170, 1769
+  orig: 1170, 1769
+  offset: 0, 0
+  index: 0
+
+Zombie8_death1.png
+size: 1170, 1769
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1170, 1769
+  orig: 1170, 1769
+  offset: 0, 0
+  index: 1
+
+Zombie8_death2.png
+size: 1170, 1769
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1170, 1769
+  orig: 1170, 1769
+  offset: 0, 0
+  index: 2
+
+Zombie8_death3.png
+size: 1170, 1769
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1170, 1769
+  orig: 1170, 1769
+  offset: 0, 0
+  index: 3
+
+Zombie8_death4.png
+size: 1170, 1769
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1170, 1769
+  orig: 1170, 1769
+  offset: 0, 0
+  index: 4
+
+Zombie8_death5.png
+size: 1170, 1769
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1170, 1769
+  orig: 1170, 1769
+  offset: 0, 0
+  index: 5
+
+Zombie8_death6.png
+size: 1170, 1769
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1170, 1769
+  orig: 1170, 1769
+  offset: 0, 0
+  index: 6
+
+Zombie8_death7.png
+size: 1170, 1769
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1170, 1769
+  orig: 1170, 1769
+  offset: 0, 0
+  index: 7
+
+Zombie8_death8.png
+size: 1170, 1769
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1170, 1769
+  orig: 1170, 1769
+  offset: 0, 0
+  index: 8
+
+Zombie8_death9.png
+size: 1170, 1769
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1170, 1769
+  orig: 1170, 1769
+  offset: 0, 0
+  index: 9

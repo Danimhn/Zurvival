@@ -1,0 +1,236 @@
+TileSet.png
+size: 250, 1639
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asphalt_tiles_0012_Layer-0
+  rotate: false
+  xy: 0, 237
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+Bed
+  rotate: false
+  xy: 120, 1282
+  size: 100, 145
+  orig: 100, 145
+  offset: 0, 0
+  index: -1
+Bush
+  rotate: false
+  xy: 60, 176
+  size: 75, 61
+  orig: 75, 61
+  offset: 0, 0
+  index: -1
+Car
+  rotate: false
+  xy: 0, 116
+  size: 150, 59
+  orig: 150, 59
+  offset: 0, 0
+  index: -1
+Carpet
+  rotate: false
+  xy: 60, 0
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1
+Couch
+  rotate: false
+  xy: 0, 58
+  size: 125, 58
+  orig: 125, 58
+  offset: 0, 0
+  index: -1
+CouchShadow
+  rotate: false
+  xy: 125, 58
+  size: 125, 58
+  orig: 125, 58
+  offset: 0, 0
+  index: -1
+cracks_ground_0015_Layer-16
+  rotate: false
+  xy: 0, 1042
+  size: 85, 106
+  orig: 85, 106
+  offset: 0, 0
+  index: -1
+cracks_ground_0016_Layer-17
+  rotate: false
+  xy: 0, 1427
+  size: 241, 212
+  orig: 241, 212
+  offset: 0, 0
+  index: -1
+Flammable
+  rotate: false
+  xy: 150, 116
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+FlammableShadow
+  rotate: false
+  xy: 0, 176
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+grass_tiles_0000_Layer-55
+  rotate: false
+  xy: 89, 237
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+grass_tiles_0001_Layer-54
+  rotate: false
+  xy: 0, 326
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+grass_tiles_0002_Layer-53
+  rotate: false
+  xy: 89, 326
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+grass_tiles_0003_Layer-52
+  rotate: false
+  xy: 0, 415
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+grass_tiles_0006_Layer-49
+  rotate: false
+  xy: 89, 415
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+grass_tiles_0009_Layer-46
+  rotate: false
+  xy: 0, 504
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+grass_tiles_0010_Layer-45
+  rotate: false
+  xy: 89, 504
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+grass_tiles_0011_Layer-44
+  rotate: false
+  xy: 0, 593
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+grass_tiles_0012_Layer-43
+  rotate: false
+  xy: 89, 593
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+ground_tiles_0001_Layer-49
+  rotate: false
+  xy: 0, 682
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+ground_tiles_0004_Layer-46
+  rotate: false
+  xy: 89, 682
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+ground_tiles_0006_Layer-44
+  rotate: false
+  xy: 0, 771
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+ground_tiles_0009_Layer-41
+  rotate: false
+  xy: 89, 771
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+ground_tiles_0012_Layer-38
+  rotate: false
+  xy: 0, 860
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+Tank
+  rotate: false
+  xy: 0, 949
+  size: 250, 93
+  orig: 250, 93
+  offset: 0, 0
+  index: -1
+Trunk
+  rotate: false
+  xy: 135, 176
+  size: 75, 61
+  orig: 75, 61
+  offset: 0, 0
+  index: -1
+TV (2)
+  rotate: false
+  xy: 0, 0
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+Wall
+  rotate: false
+  xy: 85, 1042
+  size: 34, 119
+  orig: 34, 119
+  offset: 0, 0
+  index: -1
+WallCorner1
+  rotate: false
+  xy: 119, 1042
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+WallCorner2
+  rotate: false
+  xy: 0, 1162
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+WallCorner3
+  rotate: false
+  xy: 120, 1162
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+WallCorner4
+  rotate: false
+  xy: 0, 1282
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

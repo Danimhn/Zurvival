@@ -1,0 +1,80 @@
+Zombie7_attack0.png
+size: 2002, 1818
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1001, 909
+  orig: 1001, 909
+  offset: 0, 0
+  index: 0
+Attack
+  rotate: false
+  xy: 1001, 0
+  size: 1001, 909
+  orig: 1001, 909
+  offset: 0, 0
+  index: 1
+Attack
+  rotate: false
+  xy: 0, 909
+  size: 1001, 909
+  orig: 1001, 909
+  offset: 0, 0
+  index: 2
+Attack
+  rotate: false
+  xy: 1001, 909
+  size: 1001, 909
+  orig: 1001, 909
+  offset: 0, 0
+  index: 3
+
+Zombie7_attack1.png
+size: 2002, 1818
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1001, 909
+  orig: 1001, 909
+  offset: 0, 0
+  index: 4
+Attack
+  rotate: false
+  xy: 1001, 0
+  size: 1001, 909
+  orig: 1001, 909
+  offset: 0, 0
+  index: 5
+Attack
+  rotate: false
+  xy: 0, 909
+  size: 1001, 909
+  orig: 1001, 909
+  offset: 0, 0
+  index: 6
+Attack
+  rotate: false
+  xy: 1001, 909
+  size: 1001, 909
+  orig: 1001, 909
+  offset: 0, 0
+  index: 7
+
+Zombie7_attack2.png
+size: 1001, 909
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1001, 909
+  orig: 1001, 909
+  offset: 0, 0
+  index: 8

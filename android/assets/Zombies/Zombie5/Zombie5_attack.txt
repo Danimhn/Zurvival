@@ -1,0 +1,80 @@
+Zombie5_attack0.png
+size: 1652, 1544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 826, 772
+  orig: 826, 772
+  offset: 0, 0
+  index: 0
+Attack
+  rotate: false
+  xy: 826, 0
+  size: 826, 772
+  orig: 826, 772
+  offset: 0, 0
+  index: 1
+Attack
+  rotate: false
+  xy: 0, 772
+  size: 826, 772
+  orig: 826, 772
+  offset: 0, 0
+  index: 2
+Attack
+  rotate: false
+  xy: 826, 772
+  size: 826, 772
+  orig: 826, 772
+  offset: 0, 0
+  index: 3
+
+Zombie5_attack1.png
+size: 1652, 1544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 826, 772
+  orig: 826, 772
+  offset: 0, 0
+  index: 4
+Attack
+  rotate: false
+  xy: 826, 0
+  size: 826, 772
+  orig: 826, 772
+  offset: 0, 0
+  index: 5
+Attack
+  rotate: false
+  xy: 0, 772
+  size: 826, 772
+  orig: 826, 772
+  offset: 0, 0
+  index: 6
+Attack
+  rotate: false
+  xy: 826, 772
+  size: 826, 772
+  orig: 826, 772
+  offset: 0, 0
+  index: 7
+
+Zombie5_attack2.png
+size: 826, 772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 826, 772
+  orig: 826, 772
+  offset: 0, 0
+  index: 8

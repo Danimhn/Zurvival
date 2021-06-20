@@ -1,0 +1,68 @@
+Zombie4_walk.png
+size: 1485, 1509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk
+  rotate: false
+  xy: 0, 0
+  size: 495, 503
+  orig: 495, 503
+  offset: 0, 0
+  index: 0
+Walk
+  rotate: false
+  xy: 495, 0
+  size: 495, 503
+  orig: 495, 503
+  offset: 0, 0
+  index: 1
+Walk
+  rotate: false
+  xy: 990, 0
+  size: 495, 503
+  orig: 495, 503
+  offset: 0, 0
+  index: 2
+Walk
+  rotate: false
+  xy: 0, 503
+  size: 495, 503
+  orig: 495, 503
+  offset: 0, 0
+  index: 3
+Walk
+  rotate: false
+  xy: 495, 503
+  size: 495, 503
+  orig: 495, 503
+  offset: 0, 0
+  index: 4
+Walk
+  rotate: false
+  xy: 990, 503
+  size: 495, 503
+  orig: 495, 503
+  offset: 0, 0
+  index: 5
+Walk
+  rotate: false
+  xy: 0, 1006
+  size: 495, 503
+  orig: 495, 503
+  offset: 0, 0
+  index: 6
+Walk
+  rotate: false
+  xy: 495, 1006
+  size: 495, 503
+  orig: 495, 503
+  offset: 0, 0
+  index: 7
+Walk
+  rotate: false
+  xy: 990, 1006
+  size: 495, 503
+  orig: 495, 503
+  offset: 0, 0
+  index: 8

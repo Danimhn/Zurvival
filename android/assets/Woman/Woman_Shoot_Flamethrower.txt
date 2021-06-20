@@ -1,0 +1,68 @@
+Woman_Shoot_Flamethrower.png
+size: 1795, 1988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FlameThrower
+  rotate: false
+  xy: 0, 0
+  size: 359, 994
+  orig: 359, 994
+  offset: 0, 0
+  index: 0
+FlameThrower
+  rotate: false
+  xy: 359, 0
+  size: 359, 994
+  orig: 359, 994
+  offset: 0, 0
+  index: 1
+FlameThrower
+  rotate: false
+  xy: 718, 0
+  size: 359, 994
+  orig: 359, 994
+  offset: 0, 0
+  index: 2
+FlameThrower
+  rotate: false
+  xy: 1077, 0
+  size: 359, 994
+  orig: 359, 994
+  offset: 0, 0
+  index: 3
+FlameThrower
+  rotate: false
+  xy: 1436, 0
+  size: 359, 994
+  orig: 359, 994
+  offset: 0, 0
+  index: 4
+FlameThrower
+  rotate: false
+  xy: 0, 994
+  size: 359, 994
+  orig: 359, 994
+  offset: 0, 0
+  index: 5
+FlameThrower
+  rotate: false
+  xy: 359, 994
+  size: 359, 994
+  orig: 359, 994
+  offset: 0, 0
+  index: 6
+FlameThrower
+  rotate: false
+  xy: 718, 994
+  size: 359, 994
+  orig: 359, 994
+  offset: 0, 0
+  index: 7
+FlameThrower
+  rotate: false
+  xy: 1077, 994
+  size: 359, 994
+  orig: 359, 994
+  offset: 0, 0
+  index: 8

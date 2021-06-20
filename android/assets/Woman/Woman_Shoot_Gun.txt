@@ -1,0 +1,40 @@
+Woman_Shoot_Gun.png
+size: 1670, 579
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun_Shot
+  rotate: false
+  xy: 0, 0
+  size: 334, 579
+  orig: 334, 579
+  offset: 0, 0
+  index: 0
+Gun_Shot
+  rotate: false
+  xy: 334, 0
+  size: 334, 579
+  orig: 334, 579
+  offset: 0, 0
+  index: 1
+Gun_Shot
+  rotate: false
+  xy: 668, 0
+  size: 334, 579
+  orig: 334, 579
+  offset: 0, 0
+  index: 2
+Gun_Shot
+  rotate: false
+  xy: 1002, 0
+  size: 334, 579
+  orig: 334, 579
+  offset: 0, 0
+  index: 3
+Gun_Shot
+  rotate: false
+  xy: 1336, 0
+  size: 334, 579
+  orig: 334, 579
+  offset: 0, 0
+  index: 4

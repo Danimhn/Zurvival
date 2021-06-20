@@ -1,0 +1,68 @@
+Zombie1_attack.png
+size: 1986, 1704
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 662, 568
+  orig: 662, 568
+  offset: 0, 0
+  index: 0
+Attack
+  rotate: false
+  xy: 662, 0
+  size: 662, 568
+  orig: 662, 568
+  offset: 0, 0
+  index: 1
+Attack
+  rotate: false
+  xy: 1324, 0
+  size: 662, 568
+  orig: 662, 568
+  offset: 0, 0
+  index: 2
+Attack
+  rotate: false
+  xy: 0, 568
+  size: 662, 568
+  orig: 662, 568
+  offset: 0, 0
+  index: 3
+Attack
+  rotate: false
+  xy: 662, 568
+  size: 662, 568
+  orig: 662, 568
+  offset: 0, 0
+  index: 4
+Attack
+  rotate: false
+  xy: 1324, 568
+  size: 662, 568
+  orig: 662, 568
+  offset: 0, 0
+  index: 5
+Attack
+  rotate: false
+  xy: 0, 1136
+  size: 662, 568
+  orig: 662, 568
+  offset: 0, 0
+  index: 6
+Attack
+  rotate: false
+  xy: 662, 1136
+  size: 662, 568
+  orig: 662, 568
+  offset: 0, 0
+  index: 7
+Attack
+  rotate: false
+  xy: 1324, 1136
+  size: 662, 568
+  orig: 662, 568
+  offset: 0, 0
+  index: 8

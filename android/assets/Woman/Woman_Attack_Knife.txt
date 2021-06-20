@@ -1,0 +1,61 @@
+Woman_Attack_Knife.png
+size: 1824, 1443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Knife
+  rotate: false
+  xy: 0, 0
+  size: 608, 481
+  orig: 608, 481
+  offset: 0, 0
+  index: 0
+Knife
+  rotate: false
+  xy: 608, 0
+  size: 608, 481
+  orig: 608, 481
+  offset: 0, 0
+  index: 1
+Knife
+  rotate: false
+  xy: 1216, 0
+  size: 608, 481
+  orig: 608, 481
+  offset: 0, 0
+  index: 2
+Knife
+  rotate: false
+  xy: 0, 481
+  size: 608, 481
+  orig: 608, 481
+  offset: 0, 0
+  index: 3
+Knife
+  rotate: false
+  xy: 608, 481
+  size: 608, 481
+  orig: 608, 481
+  offset: 0, 0
+  index: 4
+Knife
+  rotate: false
+  xy: 1216, 481
+  size: 608, 481
+  orig: 608, 481
+  offset: 0, 0
+  index: 5
+Knife
+  rotate: false
+  xy: 0, 962
+  size: 608, 481
+  orig: 608, 481
+  offset: 0, 0
+  index: 6
+Knife
+  rotate: false
+  xy: 608, 962
+  size: 608, 481
+  orig: 608, 481
+  offset: 0, 0
+  index: 7

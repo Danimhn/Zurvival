@@ -1,0 +1,47 @@
+Man_Walk_Knife.png
+size: 1626, 804
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk_knife
+  rotate: false
+  xy: 0, 0
+  size: 542, 402
+  orig: 542, 402
+  offset: 0, 0
+  index: 0
+Walk_knife
+  rotate: false
+  xy: 542, 0
+  size: 542, 402
+  orig: 542, 402
+  offset: 0, 0
+  index: 1
+Walk_knife
+  rotate: false
+  xy: 1084, 0
+  size: 542, 402
+  orig: 542, 402
+  offset: 0, 0
+  index: 2
+Walk_knife
+  rotate: false
+  xy: 0, 402
+  size: 542, 402
+  orig: 542, 402
+  offset: 0, 0
+  index: 3
+Walk_knife
+  rotate: false
+  xy: 542, 402
+  size: 542, 402
+  orig: 542, 402
+  offset: 0, 0
+  index: 4
+Walk_knife
+  rotate: false
+  xy: 1084, 402
+  size: 542, 402
+  orig: 542, 402
+  offset: 0, 0
+  index: 5

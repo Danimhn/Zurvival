@@ -1,0 +1,33 @@
+Man_Shoot_Flamethrower2.png
+size: 1576, 1102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FlameThrower
+  rotate: false
+  xy: 0, 0
+  size: 394, 1102
+  orig: 394, 1102
+  offset: 0, 0
+  index: 5
+FlameThrower
+  rotate: false
+  xy: 394, 0
+  size: 394, 1102
+  orig: 394, 1102
+  offset: 0, 0
+  index: 6
+FlameThrower
+  rotate: false
+  xy: 788, 0
+  size: 394, 1102
+  orig: 394, 1102
+  offset: 0, 0
+  index: 7
+FlameThrower
+  rotate: false
+  xy: 1182, 0
+  size: 394, 1102
+  orig: 394, 1102
+  offset: 0, 0
+  index: 8

@@ -1,0 +1,74 @@
+Zombie4_attack0.png
+size: 1562, 1824
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 781, 608
+  orig: 781, 608
+  offset: 0, 0
+  index: 0
+Attack
+  rotate: false
+  xy: 781, 0
+  size: 781, 608
+  orig: 781, 608
+  offset: 0, 0
+  index: 1
+Attack
+  rotate: false
+  xy: 0, 608
+  size: 781, 608
+  orig: 781, 608
+  offset: 0, 0
+  index: 2
+Attack
+  rotate: false
+  xy: 781, 608
+  size: 781, 608
+  orig: 781, 608
+  offset: 0, 0
+  index: 3
+Attack
+  rotate: false
+  xy: 0, 1216
+  size: 781, 608
+  orig: 781, 608
+  offset: 0, 0
+  index: 4
+Attack
+  rotate: false
+  xy: 781, 1216
+  size: 781, 608
+  orig: 781, 608
+  offset: 0, 0
+  index: 5
+
+Zombie4_attack1.png
+size: 781, 1824
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 781, 608
+  orig: 781, 608
+  offset: 0, 0
+  index: 6
+Attack
+  rotate: false
+  xy: 0, 608
+  size: 781, 608
+  orig: 781, 608
+  offset: 0, 0
+  index: 7
+Attack
+  rotate: false
+  xy: 0, 1216
+  size: 781, 608
+  orig: 781, 608
+  offset: 0, 0
+  index: 8

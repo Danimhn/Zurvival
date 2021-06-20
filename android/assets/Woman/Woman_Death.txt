@@ -1,0 +1,47 @@
+Woman_Death.png
+size: 497, 1222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+death_0006_Girl
+  rotate: false
+  xy: 0, 0
+  size: 295, 326
+  orig: 295, 326
+  offset: 0, 0
+  index: -1
+death_0007_Girl
+  rotate: false
+  xy: 0, 326
+  size: 247, 243
+  orig: 247, 243
+  offset: 0, 0
+  index: -1
+death_0008_Girl
+  rotate: false
+  xy: 247, 326
+  size: 228, 269
+  orig: 228, 269
+  offset: 0, 0
+  index: -1
+death_0009_Girl
+  rotate: false
+  xy: 0, 595
+  size: 385, 213
+  orig: 385, 213
+  offset: 0, 0
+  index: -1
+death_0010_Girl
+  rotate: false
+  xy: 0, 808
+  size: 461, 199
+  orig: 461, 199
+  offset: 0, 0
+  index: -1
+death_0011_Girl
+  rotate: false
+  xy: 0, 1007
+  size: 497, 215
+  orig: 497, 215
+  offset: 0, 0
+  index: -1

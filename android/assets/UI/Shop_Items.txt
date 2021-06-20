@@ -1,0 +1,89 @@
+Shop_Items.png
+size: 921, 1855
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AdIcon
+  rotate: false
+  xy: 371, 744
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Armor
+  rotate: false
+  xy: 188, 285
+  size: 156, 180
+  orig: 156, 180
+  offset: 0, 0
+  index: -1
+BloodyHandL
+  rotate: false
+  xy: 499, 285
+  size: 371, 459
+  orig: 371, 459
+  offset: 0, 0
+  index: -1
+BloodyHandR
+  rotate: false
+  xy: 0, 744
+  size: 371, 459
+  orig: 371, 459
+  offset: 0, 0
+  index: -1
+Button
+  rotate: false
+  xy: 220, 0
+  size: 272, 65
+  orig: 272, 65
+  offset: 0, 0
+  index: -1
+Button2
+  rotate: false
+  xy: 0, 133
+  size: 921, 152
+  orig: 921, 152
+  offset: 0, 0
+  index: -1
+HandGunMag
+  rotate: false
+  xy: 0, 0
+  size: 220, 48
+  orig: 220, 48
+  offset: 0, 0
+  index: -1
+HealthPack
+  rotate: false
+  xy: 731, 0
+  size: 137, 133
+  orig: 137, 133
+  offset: 0, 0
+  index: -1
+Money
+  rotate: false
+  xy: 0, 285
+  size: 188, 158
+  orig: 188, 158
+  offset: 0, 0
+  index: -1
+RiffleMag
+  rotate: false
+  xy: 492, 0
+  size: 239, 88
+  orig: 239, 88
+  offset: 0, 0
+  index: -1
+Skull
+  rotate: false
+  xy: 0, 1256
+  size: 710, 599
+  orig: 710, 599
+  offset: 0, 0
+  index: -1
+Tank
+  rotate: false
+  xy: 344, 285
+  size: 155, 198
+  orig: 155, 198
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,47 @@
+Zombie1_death.png
+size: 1794, 1592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 598, 796
+  orig: 598, 796
+  offset: 0, 0
+  index: 0
+Death
+  rotate: false
+  xy: 598, 0
+  size: 598, 796
+  orig: 598, 796
+  offset: 0, 0
+  index: 1
+Death
+  rotate: false
+  xy: 1196, 0
+  size: 598, 796
+  orig: 598, 796
+  offset: 0, 0
+  index: 2
+Death
+  rotate: false
+  xy: 0, 796
+  size: 598, 796
+  orig: 598, 796
+  offset: 0, 0
+  index: 3
+Death
+  rotate: false
+  xy: 598, 796
+  size: 598, 796
+  orig: 598, 796
+  offset: 0, 0
+  index: 4
+Death
+  rotate: false
+  xy: 1196, 796
+  size: 598, 796
+  orig: 598, 796
+  offset: 0, 0
+  index: 5

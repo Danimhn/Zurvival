@@ -1,0 +1,129 @@
+Zombie9_death0.png
+size: 1060, 1600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1060, 1600
+  orig: 1060, 1600
+  offset: 0, 0
+  index: 0
+
+Zombie9_death1.png
+size: 1060, 1600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1060, 1600
+  orig: 1060, 1600
+  offset: 0, 0
+  index: 1
+
+Zombie9_death2.png
+size: 1060, 1600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1060, 1600
+  orig: 1060, 1600
+  offset: 0, 0
+  index: 2
+
+Zombie9_death3.png
+size: 1060, 1600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1060, 1600
+  orig: 1060, 1600
+  offset: 0, 0
+  index: 3
+
+Zombie9_death4.png
+size: 1060, 1600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1060, 1600
+  orig: 1060, 1600
+  offset: 0, 0
+  index: 4
+
+Zombie9_death5.png
+size: 1060, 1600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1060, 1600
+  orig: 1060, 1600
+  offset: 0, 0
+  index: 5
+
+Zombie9_death6.png
+size: 1060, 1600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1060, 1600
+  orig: 1060, 1600
+  offset: 0, 0
+  index: 6
+
+Zombie9_death7.png
+size: 1060, 1600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1060, 1600
+  orig: 1060, 1600
+  offset: 0, 0
+  index: 7
+
+Zombie9_death8.png
+size: 1060, 1600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1060, 1600
+  orig: 1060, 1600
+  offset: 0, 0
+  index: 8
+
+Zombie9_death9.png
+size: 1060, 1600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1060, 1600
+  orig: 1060, 1600
+  offset: 0, 0
+  index: 9

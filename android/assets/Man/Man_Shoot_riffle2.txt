@@ -1,0 +1,33 @@
+Man_Shoot_riffle2.png
+size: 1572, 1082
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Riffle
+  rotate: false
+  xy: 0, 0
+  size: 393, 1082
+  orig: 393, 1082
+  offset: 0, 0
+  index: 5
+Riffle
+  rotate: false
+  xy: 393, 0
+  size: 393, 1082
+  orig: 393, 1082
+  offset: 0, 0
+  index: 6
+Riffle
+  rotate: false
+  xy: 786, 0
+  size: 393, 1082
+  orig: 393, 1082
+  offset: 0, 0
+  index: 7
+Riffle
+  rotate: false
+  xy: 1179, 0
+  size: 393, 1082
+  orig: 393, 1082
+  offset: 0, 0
+  index: 8

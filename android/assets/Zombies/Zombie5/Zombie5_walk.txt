@@ -1,0 +1,68 @@
+Zombie5_walk.png
+size: 1461, 1656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk
+  rotate: false
+  xy: 0, 0
+  size: 487, 552
+  orig: 487, 552
+  offset: 0, 0
+  index: 0
+Walk
+  rotate: false
+  xy: 487, 0
+  size: 487, 552
+  orig: 487, 552
+  offset: 0, 0
+  index: 1
+Walk
+  rotate: false
+  xy: 974, 0
+  size: 487, 552
+  orig: 487, 552
+  offset: 0, 0
+  index: 2
+Walk
+  rotate: false
+  xy: 0, 552
+  size: 487, 552
+  orig: 487, 552
+  offset: 0, 0
+  index: 3
+Walk
+  rotate: false
+  xy: 487, 552
+  size: 487, 552
+  orig: 487, 552
+  offset: 0, 0
+  index: 4
+Walk
+  rotate: false
+  xy: 974, 552
+  size: 487, 552
+  orig: 487, 552
+  offset: 0, 0
+  index: 5
+Walk
+  rotate: false
+  xy: 0, 1104
+  size: 487, 552
+  orig: 487, 552
+  offset: 0, 0
+  index: 6
+Walk
+  rotate: false
+  xy: 487, 1104
+  size: 487, 552
+  orig: 487, 552
+  offset: 0, 0
+  index: 7
+Walk
+  rotate: false
+  xy: 974, 1104
+  size: 487, 552
+  orig: 487, 552
+  offset: 0, 0
+  index: 8

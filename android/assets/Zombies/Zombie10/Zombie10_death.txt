@@ -1,0 +1,181 @@
+Zombie10_death0.png
+size: 1350, 1050
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1345, 1045
+  orig: 1895, 1662
+  offset: 285, 452
+  index: 0
+
+Zombie10_death1.png
+size: 1314, 1134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1310, 1130
+  orig: 1895, 1662
+  offset: 285, 372
+  index: 2
+
+Zombie10_death2.png
+size: 1278, 1176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1275, 1175
+  orig: 1895, 1662
+  offset: 300, 347
+  index: 3
+
+Zombie10_death3.png
+size: 1284, 1170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1280, 1170
+  orig: 1895, 1662
+  offset: 275, 347
+  index: 4
+
+Zombie10_death4.png
+size: 1284, 1170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1280, 1170
+  orig: 1895, 1662
+  offset: 275, 347
+  index: 6
+
+Zombie10_death5.png
+size: 1278, 1158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1275, 1155
+  orig: 1895, 1662
+  offset: 290, 362
+  index: 7
+
+Zombie10_death6.png
+size: 1278, 1158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1275, 1155
+  orig: 1895, 1662
+  offset: 290, 362
+  index: 8
+
+Zombie10_death7.png
+size: 1572, 1242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1570, 1240
+  orig: 1895, 1662
+  offset: 160, 287
+  index: 9
+
+Zombie10_death8.png
+size: 1860, 1338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1855, 1335
+  orig: 1895, 1662
+  offset: 40, 277
+  index: 10
+
+Zombie10_death9.png
+size: 1878, 1656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1875, 1655
+  orig: 1895, 1662
+  offset: 0, 7
+  index: 11
+
+Zombie10_death10.png
+size: 1878, 1668
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1875, 1665
+  orig: 1895, 1662
+  offset: 0, -3
+  index: 12
+
+Zombie10_death11.png
+size: 1878, 1668
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1875, 1665
+  orig: 1895, 1662
+  offset: 0, -3
+  index: 13
+
+Zombie10_death12.png
+size: 1884, 1668
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1880, 1665
+  orig: 1895, 1662
+  offset: 0, -3
+  index: 14
+
+Zombie10_death13.png
+size: 1878, 1662
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 1875, 1660
+  orig: 1895, 1662
+  offset: 0, -3
+  index: 16

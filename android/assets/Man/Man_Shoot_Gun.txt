@@ -1,0 +1,40 @@
+Man_Shoot_Gun.png
+size: 1840, 638
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun_Shot
+  rotate: false
+  xy: 0, 0
+  size: 368, 638
+  orig: 368, 638
+  offset: 0, 0
+  index: 0
+Gun_Shot
+  rotate: false
+  xy: 368, 0
+  size: 368, 638
+  orig: 368, 638
+  offset: 0, 0
+  index: 1
+Gun_Shot
+  rotate: false
+  xy: 736, 0
+  size: 368, 638
+  orig: 368, 638
+  offset: 0, 0
+  index: 2
+Gun_Shot
+  rotate: false
+  xy: 1104, 0
+  size: 368, 638
+  orig: 368, 638
+  offset: 0, 0
+  index: 3
+Gun_Shot
+  rotate: false
+  xy: 1472, 0
+  size: 368, 638
+  orig: 368, 638
+  offset: 0, 0
+  index: 4

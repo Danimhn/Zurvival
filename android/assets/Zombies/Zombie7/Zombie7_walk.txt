@@ -1,0 +1,68 @@
+Zombie7_walk.png
+size: 1884, 1833
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk
+  rotate: false
+  xy: 0, 0
+  size: 628, 611
+  orig: 628, 611
+  offset: 0, 0
+  index: 0
+Walk
+  rotate: false
+  xy: 628, 0
+  size: 628, 611
+  orig: 628, 611
+  offset: 0, 0
+  index: 1
+Walk
+  rotate: false
+  xy: 1256, 0
+  size: 628, 611
+  orig: 628, 611
+  offset: 0, 0
+  index: 2
+Walk
+  rotate: false
+  xy: 0, 611
+  size: 628, 611
+  orig: 628, 611
+  offset: 0, 0
+  index: 3
+Walk
+  rotate: false
+  xy: 628, 611
+  size: 628, 611
+  orig: 628, 611
+  offset: 0, 0
+  index: 4
+Walk
+  rotate: false
+  xy: 1256, 611
+  size: 628, 611
+  orig: 628, 611
+  offset: 0, 0
+  index: 5
+Walk
+  rotate: false
+  xy: 0, 1222
+  size: 628, 611
+  orig: 628, 611
+  offset: 0, 0
+  index: 6
+Walk
+  rotate: false
+  xy: 628, 1222
+  size: 628, 611
+  orig: 628, 611
+  offset: 0, 0
+  index: 7
+Walk
+  rotate: false
+  xy: 1256, 1222
+  size: 628, 611
+  orig: 628, 611
+  offset: 0, 0
+  index: 8

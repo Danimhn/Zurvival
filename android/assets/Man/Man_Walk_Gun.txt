@@ -1,0 +1,47 @@
+Man_Walk_Gun.png
+size: 1992, 413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk_gun
+  rotate: false
+  xy: 0, 0
+  size: 332, 413
+  orig: 332, 413
+  offset: 0, 0
+  index: 0
+Walk_gun
+  rotate: false
+  xy: 332, 0
+  size: 332, 413
+  orig: 332, 413
+  offset: 0, 0
+  index: 1
+Walk_gun
+  rotate: false
+  xy: 664, 0
+  size: 332, 413
+  orig: 332, 413
+  offset: 0, 0
+  index: 2
+Walk_gun
+  rotate: false
+  xy: 996, 0
+  size: 332, 413
+  orig: 332, 413
+  offset: 0, 0
+  index: 3
+Walk_gun
+  rotate: false
+  xy: 1328, 0
+  size: 332, 413
+  orig: 332, 413
+  offset: 0, 0
+  index: 4
+Walk_gun
+  rotate: false
+  xy: 1660, 0
+  size: 332, 413
+  orig: 332, 413
+  offset: 0, 0
+  index: 5

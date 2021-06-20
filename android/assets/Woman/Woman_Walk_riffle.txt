@@ -1,0 +1,47 @@
+Woman_Walk_riffle.png
+size: 1722, 509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk_riffle
+  rotate: false
+  xy: 0, 0
+  size: 287, 509
+  orig: 287, 509
+  offset: 0, 0
+  index: 0
+Walk_riffle
+  rotate: false
+  xy: 287, 0
+  size: 287, 509
+  orig: 287, 509
+  offset: 0, 0
+  index: 1
+Walk_riffle
+  rotate: false
+  xy: 574, 0
+  size: 287, 509
+  orig: 287, 509
+  offset: 0, 0
+  index: 2
+Walk_riffle
+  rotate: false
+  xy: 861, 0
+  size: 287, 509
+  orig: 287, 509
+  offset: 0, 0
+  index: 3
+Walk_riffle
+  rotate: false
+  xy: 1148, 0
+  size: 287, 509
+  orig: 287, 509
+  offset: 0, 0
+  index: 4
+Walk_riffle
+  rotate: false
+  xy: 1435, 0
+  size: 287, 509
+  orig: 287, 509
+  offset: 0, 0
+  index: 5

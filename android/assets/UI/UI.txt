@@ -1,0 +1,82 @@
+UI.png
+size: 1656, 603
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun_Slot
+  rotate: false
+  xy: 256, 0
+  size: 127, 130
+  orig: 127, 130
+  offset: 0, 0
+  index: -1
+Gun_SlotL
+  rotate: false
+  xy: 0, 0
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+Gun_SlotR
+  rotate: false
+  xy: 81, 0
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+Health_Bar
+  rotate: false
+  xy: 1140, 0
+  size: 464, 144
+  orig: 464, 144
+  offset: 0, 0
+  index: -1
+Health_BarL
+  rotate: false
+  xy: 912, 0
+  size: 228, 144
+  orig: 228, 144
+  offset: 0, 0
+  index: -1
+Health_BarR
+  rotate: false
+  xy: 685, 0
+  size: 227, 144
+  orig: 227, 144
+  offset: 0, 0
+  index: -1
+left-red-arrow
+  rotate: false
+  xy: 0, 151
+  size: 600, 452
+  orig: 600, 452
+  offset: 0, 0
+  index: -1
+Navigate
+  rotate: false
+  xy: 383, 0
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+Options_Button
+  rotate: false
+  xy: 162, 0
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+Shooting_Button
+  rotate: false
+  xy: 534, 0
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+Zombies Discovered
+  rotate: false
+  xy: 600, 151
+  size: 1056, 115
+  orig: 1056, 115
+  offset: 0, 0
+  index: -1

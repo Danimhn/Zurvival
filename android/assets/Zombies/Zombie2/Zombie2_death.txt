@@ -1,0 +1,53 @@
+Zombie2_death0.png
+size: 1408, 1864
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 704, 932
+  orig: 704, 932
+  offset: 0, 0
+  index: 0
+Death
+  rotate: false
+  xy: 704, 0
+  size: 704, 932
+  orig: 704, 932
+  offset: 0, 0
+  index: 1
+Death
+  rotate: false
+  xy: 0, 932
+  size: 704, 932
+  orig: 704, 932
+  offset: 0, 0
+  index: 2
+Death
+  rotate: false
+  xy: 704, 932
+  size: 704, 932
+  orig: 704, 932
+  offset: 0, 0
+  index: 3
+
+Zombie2_death1.png
+size: 1408, 932
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 704, 932
+  orig: 704, 932
+  offset: 0, 0
+  index: 4
+Death
+  rotate: false
+  xy: 704, 0
+  size: 704, 932
+  orig: 704, 932
+  offset: 0, 0
+  index: 5

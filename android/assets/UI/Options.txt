@@ -1,0 +1,103 @@
+Options.png
+size: 968, 1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AdIcon
+  rotate: false
+  xy: 456, 932
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+BlackBar
+  rotate: false
+  xy: 77, 0
+  size: 347, 92
+  orig: 347, 92
+  offset: 0, 0
+  index: -1
+Button
+  rotate: false
+  xy: 0, 780
+  size: 921, 152
+  orig: 921, 152
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: false
+  xy: 0, 0
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+WhiteBase
+  rotate: false
+  xy: 218, 932
+  size: 238, 267
+  orig: 238, 267
+  offset: 0, 0
+  index: -1
+Base
+  rotate: false
+  xy: 0, 932
+  size: 218, 219
+  orig: 218, 219
+  offset: 0, 0
+  index: -1
+Game Over
+  rotate: false
+  xy: 0, 630
+  size: 696, 150
+  orig: 696, 150
+  offset: 0, 0
+  index: -1
+Main_Menu
+  rotate: false
+  xy: 0, 100
+  size: 693, 128
+  orig: 693, 128
+  offset: 0, 0
+  index: -1
+MuteIcon
+  rotate: false
+  xy: 424, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Ok
+  rotate: false
+  xy: 0, 361
+  size: 180, 134
+  orig: 180, 134
+  offset: 0, 0
+  index: -1
+Resume
+  rotate: false
+  xy: 0, 228
+  size: 502, 133
+  orig: 502, 133
+  offset: 0, 0
+  index: -1
+Revive
+  rotate: false
+  xy: 502, 228
+  size: 428, 133
+  orig: 428, 133
+  offset: 0, 0
+  index: -1
+Round Cleared
+  rotate: false
+  xy: 0, 495
+  size: 912, 135
+  orig: 912, 135
+  offset: 0, 0
+  index: -1
+UnmuteIcon
+  rotate: false
+  xy: 524, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

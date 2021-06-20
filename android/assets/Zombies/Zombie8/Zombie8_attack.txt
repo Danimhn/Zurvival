@@ -1,0 +1,181 @@
+Zombie8_attack0.png
+size: 1594, 1449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1594, 1449
+  orig: 1594, 1449
+  offset: 0, 0
+  index: 0
+
+Zombie8_attack1.png
+size: 1594, 1449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1594, 1449
+  orig: 1594, 1449
+  offset: 0, 0
+  index: 1
+
+Zombie8_attack2.png
+size: 1594, 1449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1594, 1449
+  orig: 1594, 1449
+  offset: 0, 0
+  index: 2
+
+Zombie8_attack3.png
+size: 1594, 1449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1594, 1449
+  orig: 1594, 1449
+  offset: 0, 0
+  index: 3
+
+Zombie8_attack4.png
+size: 1594, 1449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1594, 1449
+  orig: 1594, 1449
+  offset: 0, 0
+  index: 4
+
+Zombie8_attack5.png
+size: 1594, 1449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1594, 1449
+  orig: 1594, 1449
+  offset: 0, 0
+  index: 5
+
+Zombie8_attack6.png
+size: 1594, 1449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1594, 1449
+  orig: 1594, 1449
+  offset: 0, 0
+  index: 6
+
+Zombie8_attack7.png
+size: 1594, 1449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1594, 1449
+  orig: 1594, 1449
+  offset: 0, 0
+  index: 7
+
+Zombie8_attack8.png
+size: 1594, 1449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1594, 1449
+  orig: 1594, 1449
+  offset: 0, 0
+  index: 8
+
+Zombie8_attack9.png
+size: 1594, 1449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1594, 1449
+  orig: 1594, 1449
+  offset: 0, 0
+  index: 9
+
+Zombie8_attack10.png
+size: 1594, 1449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1594, 1449
+  orig: 1594, 1449
+  offset: 0, 0
+  index: 10
+
+Zombie8_attack11.png
+size: 1594, 1449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1594, 1449
+  orig: 1594, 1449
+  offset: 0, 0
+  index: 11
+
+Zombie8_attack12.png
+size: 1594, 1449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1594, 1449
+  orig: 1594, 1449
+  offset: 0, 0
+  index: 12
+
+Zombie8_attack13.png
+size: 1594, 1449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 1594, 1449
+  orig: 1594, 1449
+  offset: 0, 0
+  index: 13

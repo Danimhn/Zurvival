@@ -1,0 +1,68 @@
+Zombie3_attack.png
+size: 1911, 1818
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 637, 606
+  orig: 637, 606
+  offset: 0, 0
+  index: 0
+Attack
+  rotate: false
+  xy: 637, 0
+  size: 637, 606
+  orig: 637, 606
+  offset: 0, 0
+  index: 1
+Attack
+  rotate: false
+  xy: 1274, 0
+  size: 637, 606
+  orig: 637, 606
+  offset: 0, 0
+  index: 2
+Attack
+  rotate: false
+  xy: 0, 606
+  size: 637, 606
+  orig: 637, 606
+  offset: 0, 0
+  index: 3
+Attack
+  rotate: false
+  xy: 637, 606
+  size: 637, 606
+  orig: 637, 606
+  offset: 0, 0
+  index: 4
+Attack
+  rotate: false
+  xy: 1274, 606
+  size: 637, 606
+  orig: 637, 606
+  offset: 0, 0
+  index: 5
+Attack
+  rotate: false
+  xy: 0, 1212
+  size: 637, 606
+  orig: 637, 606
+  offset: 0, 0
+  index: 6
+Attack
+  rotate: false
+  xy: 637, 1212
+  size: 637, 606
+  orig: 637, 606
+  offset: 0, 0
+  index: 7
+Attack
+  rotate: false
+  xy: 1274, 1212
+  size: 637, 606
+  orig: 637, 606
+  offset: 0, 0
+  index: 8

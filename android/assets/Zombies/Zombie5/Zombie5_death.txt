@@ -1,0 +1,47 @@
+Zombie5_death.png
+size: 1959, 1910
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 653, 955
+  orig: 653, 955
+  offset: 0, 0
+  index: 0
+Death
+  rotate: false
+  xy: 653, 0
+  size: 653, 955
+  orig: 653, 955
+  offset: 0, 0
+  index: 1
+Death
+  rotate: false
+  xy: 1306, 0
+  size: 653, 955
+  orig: 653, 955
+  offset: 0, 0
+  index: 2
+Death
+  rotate: false
+  xy: 0, 955
+  size: 653, 955
+  orig: 653, 955
+  offset: 0, 0
+  index: 3
+Death
+  rotate: false
+  xy: 653, 955
+  size: 653, 955
+  orig: 653, 955
+  offset: 0, 0
+  index: 4
+Death
+  rotate: false
+  xy: 1306, 955
+  size: 653, 955
+  orig: 653, 955
+  offset: 0, 0
+  index: 5

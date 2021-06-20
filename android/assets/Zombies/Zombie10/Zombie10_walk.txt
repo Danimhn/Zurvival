@@ -1,0 +1,103 @@
+Zombie10_walk0.png
+size: 1350, 1206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk
+  rotate: false
+  xy: 0, 0
+  size: 1345, 1205
+  orig: 1342, 1205
+  offset: 0, 0
+  index: 0
+
+Zombie10_walk1.png
+size: 1350, 1206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk
+  rotate: false
+  xy: 0, 0
+  size: 1345, 1205
+  orig: 1342, 1205
+  offset: 0, 0
+  index: 1
+
+Zombie10_walk2.png
+size: 1350, 1206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk
+  rotate: false
+  xy: 0, 0
+  size: 1345, 1205
+  orig: 1342, 1205
+  offset: 0, 0
+  index: 2
+
+Zombie10_walk3.png
+size: 1350, 1206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk
+  rotate: false
+  xy: 0, 0
+  size: 1345, 1205
+  orig: 1342, 1205
+  offset: 0, 0
+  index: 3
+
+Zombie10_walk4.png
+size: 1350, 1206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk
+  rotate: false
+  xy: 0, 0
+  size: 1345, 1205
+  orig: 1342, 1205
+  offset: 0, 0
+  index: 4
+
+Zombie10_walk5.png
+size: 1350, 1206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk
+  rotate: false
+  xy: 0, 0
+  size: 1345, 1205
+  orig: 1342, 1205
+  offset: 0, 0
+  index: 5
+
+Zombie10_walk6.png
+size: 1350, 1206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk
+  rotate: false
+  xy: 0, 0
+  size: 1345, 1205
+  orig: 1342, 1205
+  offset: 0, 0
+  index: 6
+
+Zombie10_walk7.png
+size: 1350, 1206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk
+  rotate: false
+  xy: 0, 0
+  size: 1345, 1205
+  orig: 1342, 1205
+  offset: 0, 0
+  index: 7

@@ -1,0 +1,68 @@
+Zombie2_walk.png
+size: 1533, 1506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk
+  rotate: false
+  xy: 0, 0
+  size: 511, 502
+  orig: 511, 502
+  offset: 0, 0
+  index: 0
+Walk
+  rotate: false
+  xy: 511, 0
+  size: 511, 502
+  orig: 511, 502
+  offset: 0, 0
+  index: 1
+Walk
+  rotate: false
+  xy: 1022, 0
+  size: 511, 502
+  orig: 511, 502
+  offset: 0, 0
+  index: 2
+Walk
+  rotate: false
+  xy: 0, 502
+  size: 511, 502
+  orig: 511, 502
+  offset: 0, 0
+  index: 3
+Walk
+  rotate: false
+  xy: 511, 502
+  size: 511, 502
+  orig: 511, 502
+  offset: 0, 0
+  index: 4
+Walk
+  rotate: false
+  xy: 1022, 502
+  size: 511, 502
+  orig: 511, 502
+  offset: 0, 0
+  index: 5
+Walk
+  rotate: false
+  xy: 0, 1004
+  size: 511, 502
+  orig: 511, 502
+  offset: 0, 0
+  index: 6
+Walk
+  rotate: false
+  xy: 511, 1004
+  size: 511, 502
+  orig: 511, 502
+  offset: 0, 0
+  index: 7
+Walk
+  rotate: false
+  xy: 1022, 1004
+  size: 511, 502
+  orig: 511, 502
+  offset: 0, 0
+  index: 8

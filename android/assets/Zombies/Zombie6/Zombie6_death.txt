@@ -1,0 +1,47 @@
+Zombie6_death.png
+size: 1878, 1936
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 626, 968
+  orig: 626, 968
+  offset: 0, 0
+  index: 0
+Death
+  rotate: false
+  xy: 626, 0
+  size: 626, 968
+  orig: 626, 968
+  offset: 0, 0
+  index: 1
+Death
+  rotate: false
+  xy: 1252, 0
+  size: 626, 968
+  orig: 626, 968
+  offset: 0, 0
+  index: 2
+Death
+  rotate: false
+  xy: 0, 968
+  size: 626, 968
+  orig: 626, 968
+  offset: 0, 0
+  index: 3
+Death
+  rotate: false
+  xy: 626, 968
+  size: 626, 968
+  orig: 626, 968
+  offset: 0, 0
+  index: 4
+Death
+  rotate: false
+  xy: 1252, 968
+  size: 626, 968
+  orig: 626, 968
+  offset: 0, 0
+  index: 5

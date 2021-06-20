@@ -1,0 +1,47 @@
+Woman_Walk_Gun.png
+size: 1626, 351
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk_gun
+  rotate: false
+  xy: 0, 0
+  size: 271, 351
+  orig: 271, 351
+  offset: 0, 0
+  index: 0
+Walk_gun
+  rotate: false
+  xy: 271, 0
+  size: 271, 351
+  orig: 271, 351
+  offset: 0, 0
+  index: 1
+Walk_gun
+  rotate: false
+  xy: 542, 0
+  size: 271, 351
+  orig: 271, 351
+  offset: 0, 0
+  index: 2
+Walk_gun
+  rotate: false
+  xy: 813, 0
+  size: 271, 351
+  orig: 271, 351
+  offset: 0, 0
+  index: 3
+Walk_gun
+  rotate: false
+  xy: 1084, 0
+  size: 271, 351
+  orig: 271, 351
+  offset: 0, 0
+  index: 4
+Walk_gun
+  rotate: false
+  xy: 1355, 0
+  size: 271, 351
+  orig: 271, 351
+  offset: 0, 0
+  index: 5

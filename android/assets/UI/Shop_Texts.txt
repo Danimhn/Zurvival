@@ -1,0 +1,47 @@
+Shop_Texts.png
+size: 1721, 288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ammo
+  rotate: false
+  xy: 1315, 0
+  size: 406, 133
+  orig: 406, 133
+  offset: 0, 0
+  index: -1
+Collection
+  rotate: false
+  xy: 693, 0
+  size: 622, 131
+  orig: 622, 131
+  offset: 0, 0
+  index: -1
+Guns
+  rotate: false
+  xy: 736, 133
+  size: 328, 150
+  orig: 328, 150
+  offset: 0, 0
+  index: -1
+Main_Menu
+  rotate: false
+  xy: 0, 0
+  size: 693, 128
+  orig: 693, 128
+  offset: 0, 0
+  index: -1
+Next_Round
+  rotate: false
+  xy: 0, 133
+  size: 736, 142
+  orig: 736, 142
+  offset: 0, 0
+  index: -1
+Shop
+  rotate: false
+  xy: 1064, 133
+  size: 321, 155
+  orig: 321, 155
+  offset: 0, 0
+  index: -1

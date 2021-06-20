@@ -1,0 +1,68 @@
+Zombie1_walk.png
+size: 1920, 888
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Walk
+  rotate: false
+  xy: 0, 0
+  size: 384, 444
+  orig: 384, 444
+  offset: 0, 0
+  index: 0
+Walk
+  rotate: false
+  xy: 384, 0
+  size: 384, 444
+  orig: 384, 444
+  offset: 0, 0
+  index: 1
+Walk
+  rotate: false
+  xy: 768, 0
+  size: 384, 444
+  orig: 384, 444
+  offset: 0, 0
+  index: 2
+Walk
+  rotate: false
+  xy: 1152, 0
+  size: 384, 444
+  orig: 384, 444
+  offset: 0, 0
+  index: 3
+Walk
+  rotate: false
+  xy: 1536, 0
+  size: 384, 444
+  orig: 384, 444
+  offset: 0, 0
+  index: 4
+Walk
+  rotate: false
+  xy: 0, 444
+  size: 384, 444
+  orig: 384, 444
+  offset: 0, 0
+  index: 5
+Walk
+  rotate: false
+  xy: 384, 444
+  size: 384, 444
+  orig: 384, 444
+  offset: 0, 0
+  index: 6
+Walk
+  rotate: false
+  xy: 768, 444
+  size: 384, 444
+  orig: 384, 444
+  offset: 0, 0
+  index: 7
+Walk
+  rotate: false
+  xy: 1152, 444
+  size: 384, 444
+  orig: 384, 444
+  offset: 0, 0
+  index: 8

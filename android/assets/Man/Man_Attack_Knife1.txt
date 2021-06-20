@@ -1,0 +1,47 @@
+Man_Attack_Knife1.png
+size: 1476, 1659
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Knife
+  rotate: false
+  xy: 0, 0
+  size: 738, 553
+  orig: 738, 553
+  offset: 0, 0
+  index: 0
+Knife
+  rotate: false
+  xy: 738, 0
+  size: 738, 553
+  orig: 738, 553
+  offset: 0, 0
+  index: 1
+Knife
+  rotate: false
+  xy: 0, 553
+  size: 738, 553
+  orig: 738, 553
+  offset: 0, 0
+  index: 2
+Knife
+  rotate: false
+  xy: 738, 553
+  size: 738, 553
+  orig: 738, 553
+  offset: 0, 0
+  index: 3
+Knife
+  rotate: false
+  xy: 0, 1106
+  size: 738, 553
+  orig: 738, 553
+  offset: 0, 0
+  index: 4
+Knife
+  rotate: false
+  xy: 738, 1106
+  size: 738, 553
+  orig: 738, 553
+  offset: 0, 0
+  index: 5

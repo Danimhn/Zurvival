@@ -1,0 +1,116 @@
+Zombie10_attackv30.png
+size: 1710, 1494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack2
+  rotate: false
+  xy: 0, 0
+  size: 1710, 1490
+  orig: 1706, 1486
+  offset: 0, -4
+  index: 0
+
+Zombie10_attackv31.png
+size: 1710, 1494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack2
+  rotate: false
+  xy: 0, 0
+  size: 1710, 1490
+  orig: 1706, 1486
+  offset: 0, -4
+  index: 1
+
+Zombie10_attackv32.png
+size: 1710, 1494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack2
+  rotate: false
+  xy: 0, 0
+  size: 1710, 1490
+  orig: 1706, 1486
+  offset: 0, -4
+  index: 2
+
+Zombie10_attackv33.png
+size: 1710, 1494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack2
+  rotate: false
+  xy: 0, 0
+  size: 1710, 1490
+  orig: 1706, 1486
+  offset: 0, -4
+  index: 3
+
+Zombie10_attackv34.png
+size: 1710, 1494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack2
+  rotate: false
+  xy: 0, 0
+  size: 1710, 1490
+  orig: 1706, 1486
+  offset: 0, -4
+  index: 4
+
+Zombie10_attackv35.png
+size: 1710, 1494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack2
+  rotate: false
+  xy: 0, 0
+  size: 1710, 1490
+  orig: 1706, 1486
+  offset: 0, -4
+  index: 5
+
+Zombie10_attackv36.png
+size: 1710, 1494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack2
+  rotate: false
+  xy: 0, 0
+  size: 1710, 1490
+  orig: 1706, 1486
+  offset: 0, -4
+  index: 6
+
+Zombie10_attackv37.png
+size: 1710, 1494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack2
+  rotate: false
+  xy: 0, 0
+  size: 1710, 1490
+  orig: 1706, 1486
+  offset: 0, -4
+  index: 9
+
+Zombie10_attackv38.png
+size: 1710, 1494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack2
+  rotate: false
+  xy: 0, 0
+  size: 1710, 1490
+  orig: 1706, 1486
+  offset: 0, -4
+  index: 10

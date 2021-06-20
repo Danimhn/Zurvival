@@ -1,0 +1,33 @@
+Guns.png
+size: 496, 476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flamethrower
+  rotate: false
+  xy: 0, 0
+  size: 431, 134
+  orig: 431, 134
+  offset: 0, 0
+  index: -1
+HandGun
+  rotate: false
+  xy: 0, 134
+  size: 236, 118
+  orig: 236, 118
+  offset: 0, 0
+  index: -1
+Knife
+  rotate: false
+  xy: 236, 134
+  size: 183, 234
+  orig: 183, 234
+  offset: 0, 0
+  index: -1
+Riffle
+  rotate: false
+  xy: 0, 368
+  size: 496, 108
+  orig: 496, 108
+  offset: 0, 0
+  index: -1

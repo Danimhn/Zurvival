@@ -1,0 +1,59 @@
+Zombie7_death0.png
+size: 1624, 1085
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 812, 1085
+  orig: 812, 1085
+  offset: 0, 0
+  index: 0
+Death
+  rotate: false
+  xy: 812, 0
+  size: 812, 1085
+  orig: 812, 1085
+  offset: 0, 0
+  index: 1
+
+Zombie7_death1.png
+size: 1624, 1085
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 812, 1085
+  orig: 812, 1085
+  offset: 0, 0
+  index: 2
+Death
+  rotate: false
+  xy: 812, 0
+  size: 812, 1085
+  orig: 812, 1085
+  offset: 0, 0
+  index: 3
+
+Zombie7_death2.png
+size: 1624, 1085
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 812, 1085
+  orig: 812, 1085
+  offset: 0, 0
+  index: 4
+Death
+  rotate: false
+  xy: 812, 0
+  size: 812, 1085
+  orig: 812, 1085
+  offset: 0, 0
+  index: 5
