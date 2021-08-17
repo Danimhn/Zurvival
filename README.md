@@ -1,5 +1,5 @@
 # Zurvival
-An Android top down zombie shooter game I developed that's available for download on Google Play: https://play.google.com/store/apps/details?id=com.mygdx.Zurvival
+An Android top down zombie shooter game I developed that's available for download on [Google Play](https://play.google.com/store/apps/details?id=com.mygdx.Zurvival)
 
 ![image](https://user-images.githubusercontent.com/49040303/122688094-32cf5b00-d1e8-11eb-8932-55268710aa49.png)
 ![image](https://user-images.githubusercontent.com/49040303/122688102-4b3f7580-d1e8-11eb-8e6b-f188bbb46427.png)
